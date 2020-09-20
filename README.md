@@ -16,8 +16,8 @@ author: "Melissa Palacio"
 
 Goal | Item | Link to Item
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link](... "run_analysis.R")
-Tidy Data Set |  Clean Data Set |  [Data Set Link](... "tidyData.txt")
-Github Repo | Repo |  [Repo Link](..."Repo")
-Cookbook | CodeBook.md |  [Repo Link](... "CodeBook.md")
-README | ReadingItNow |  [Repo Link](... "README.md")
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/MelissaPalacio/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R "run_analysis.R")
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/MelissaPalacio/Getting-and-Cleaning-Data-Course-Project/blob/master/tidyData.txt "tidyData.txt")
+Github Repo | Repo |  [Repo Link](https://github.com/MelissaPalacio/Getting-and-Cleaning-Data-Course-Project "Repo")
+Cookbook | CodeBook.md |  [Repo Link](https://github.com/MelissaPalacio/Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md "CodeBook.md")
+README | ReadingItNow |  [Repo Link](https://github.com/MelissaPalacio/Getting-and-Cleaning-Data-Course-Project/blob/master/README.md "README.md")
