@@ -1,7 +1,7 @@
 Title: "Getting-and-Cleaning-Data-Course-Project"
 author: "Melissa Palacio"
 
-#Getting-and-Cleaning-Data-Course-Project
+# Getting-and-Cleaning-Data-Course-Project
 
 ## Description
 
